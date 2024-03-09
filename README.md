@@ -120,3 +120,14 @@ AND (transactions.currency = 'INR' OR transactions.currency = 'USD');
 ## **Power BI Dashboard : Performance Insights**
 ![Performance Insights](https://github.com/nidhidivecha/Sales-Insights-Analysis/assets/54711762/fb21c06f-d221-4245-995a-63ba4b5c5ce9)
 
+
+## **Recommendation**
+* Should Maintain healthy relationship with the customers in Bhubaneshwar, Surat, Patna as they are highest profit % by market.
+
+* Make some stategy for Bengaluru market as its revenue are less and also profit % are in negative.
+
+* Figure out what need to be done as sales quantity in Kanpur, Bengaluru, Patna, Bhubaneshwar, Surat are the lowest.
+
+* North zone have highest revenue contribution but lowest profit % whereas South zone have lowest revenue contribution but highest profit %. Try to increase customers in South zone.
+
+* Delhi is the highest revenue contibutor and eightth highest profit contributor whereas Mumbai is the second highest revenue contributor and sixth highest profit contributor. So its need to be implement the same market strategy as in mumbai to increase the profit % in Delhi.
