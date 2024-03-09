@@ -112,6 +112,10 @@ AND (transactions.currency = 'INR' OR transactions.currency = 'USD');
 
 ## **Power BI Dashboard : Key insights**
 
+![Key insights](https://github.com/nidhidivecha/Sales-Insights-Analysis/assets/54711762/286e0270-e2d6-484c-a811-5c2b619e5f31)
+
 ## **Power BI Dashboard : Profit Analysis**
+![Performance Insights](https://github.com/nidhidivecha/Sales-Insights-Analysis/assets/54711762/fb21c06f-d221-4245-995a-63ba4b5c5ce9)
 
 ## **Power BI Dashboard : Performance Insights**
+![Profit Analysis](https://github.com/nidhidivecha/Sales-Insights-Analysis/assets/54711762/a214144d-5b49-4936-9476-c61f38a446ba)
